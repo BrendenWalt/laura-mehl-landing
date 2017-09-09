@@ -1,0 +1,59 @@
+h1, h2, .fa { color: #ffffff; }
+h1 { 
+  font-family: 'Playfair Display', serif; 
+  font-size: 90px; 
+  line-height: 90px;
+  text-align: center; 
+}
+h2 { 
+  font-family: 'Roboto', Arial, Helvetica, sans-serif; 
+  font-size: 54px; 
+  font-weight: 300;
+  margin: 50px auto;
+  text-align: center;
+}
+i.fa { 
+  color: #ffffff; 
+  font-size: 60px;
+}
+.contact-links {
+  display: inline-block;
+  margin: 0 auto; 
+}
+.fa { 
+  margin: 0 20px;
+}
+.fa:hover { 
+  text-decoration: none;
+}
+.gallery-wrap { 
+  display: table-cell; 
+  vertical-align: bottom;
+}
+.headshot-wrapper {
+  display: inline-block; 
+  margin-right: 0; 
+  width: 50%;
+}
+.left-group { 
+  display: table;
+  float: left; 
+  height: 100%;
+  position: relative;
+  width: 50%; 
+}
+.page-wrapper { 
+  background-color: #7151b0; 
+  height: 100vh; 
+  overflow-y: hidden;
+  width: 100%; 
+}
+.site-info { 
+  display: table-cell; 
+  text-align: center;
+  vertical-align: middle; 
+}
+.site-info-wrap { 
+  display: table-row;
+  height: 100%; 
+}
